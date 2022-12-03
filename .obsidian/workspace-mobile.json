@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "f40077943613d962",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd0cbf05a1ced88f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82ad1b479e8d07c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3b158837079b74c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "01486abcead0bfb3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "63ef3c0b94680512",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "10aef60438f13bd1",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "412b6adeb6d4f65a",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "42d137f6f413e41a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ba5e1dafe346d184",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "README.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b8199008fb18008e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "README.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d04f116dc4b5a55c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "README.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "82ad1b479e8d07c4",
+  "lastOpenFiles": [
+    "Palabras clave.md",
+    "Untitled.md",
+    "README.md",
+    "Diagramas.md",
+    "Debatir/Debate competitivo.md",
+    "Debatir/Formatos/Parlamento británico.md"
+  ]
+}
